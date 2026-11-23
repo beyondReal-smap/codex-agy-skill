@@ -1,0 +1,19 @@
+{
+  "name": "codex-agy-skill",
+  "owner": {
+    "name": "beyondReal-smap"
+  },
+  "metadata": {
+    "description": "Claude Code skill to orchestrate Codex CLI and agy (Antigravity CLI)",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "codex-agy",
+      "source": "./",
+      "description": "Let Claude Code drive Codex CLI and agy (Antigravity CLI) as sub-agents with a safe, unified wrapper.",
+      "category": "productivity",
+      "tags": ["codex", "agy", "antigravity", "gemini", "multi-agent", "orchestration"]
+    }
+  ]
+}

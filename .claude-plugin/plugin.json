@@ -1,0 +1,12 @@
+{
+  "name": "codex-agy",
+  "version": "1.0.0",
+  "description": "Let Claude Code drive Codex CLI (OpenAI) and agy (Google Antigravity CLI) as sub-agents — second opinions, cross-review, parallel research, delegated implementation, session resume.",
+  "author": {
+    "name": "beyondReal-smap"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/beyondReal-smap/codex-agy-skill",
+  "repository": "https://github.com/beyondReal-smap/codex-agy-skill",
+  "keywords": ["codex", "antigravity", "agy", "gemini", "multi-agent", "second-opinion", "code-review", "skill"]
+}
